@@ -1,0 +1,2 @@
+Collectibles can sometimes spawn inside the the blocks space
+

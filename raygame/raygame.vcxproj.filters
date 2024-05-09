@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Wall.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Collectible.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Laser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Title.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Explosion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UIManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Wall.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Collectible.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Laser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Title.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageUI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Explosion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Bar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UIManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resources\Buttons\Buttons2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Buttons\Buttons0.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Buttons\Buttons1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Collectibles\Collectible1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Collectibles\Collectible0.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Snake\Snake2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Snake\Snake0.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Snake\Snake1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Wall\Wall00.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Wall\Wall01.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Wall\Wall02.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Wall\Wall03.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Wall\Wall04.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Wall\Wall05.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Wall\Wall06.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Wall\Wall07.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Wall\Wall08.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Wall\Wall09.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Wall\wallMysterey.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\GameOver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Logo.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Explosion\Explosion3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Explosion\Explosion4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Explosion\Explosion5.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Explosion\Explosion6.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Explosion\Explosion7.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Explosion\ExplosionIcon.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Explosion\Explosion0.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Explosion\Explosion1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Explosion\Explosion2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Collectibles\Freeze.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Collectibles\Speed.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Collectibles\BatteringRam.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Collectibles\DoubleFire.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Snake\SnakeDoubleFire.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Snake\BatteringRamDoubleFire.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Snake\BatteringRamPlayer.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Snake0.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Resources\Fonts\GrinchedRegular.otf">
+      <Filter>Resource Files</Filter>
+    </Font>
+    <Font Include="Resources\Fonts\Kloudt.otf">
+      <Filter>Resource Files</Filter>
+    </Font>
+    <Font Include="Resources\Fonts\Frijole-Regular.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Resources\Sounds\LaserShoot.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Resources\Sounds\MouseHover.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Resources\Sounds\Pickup.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Resources\Sounds\Turn.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Resources\Sounds\Crumble.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Resources\Sounds\Death.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Resources\Sounds\HitWall.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Resources\Sounds\SpeedBoost.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Resources\Sounds\WallRam.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Resources\Sounds\Explosion.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Resources\Sounds\ExplosiveRounds.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Resources\Sounds\freeze.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="KnownIssues.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="raygame2.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
