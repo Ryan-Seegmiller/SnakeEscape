@@ -14,6 +14,11 @@ Your a snake with a gun
 
 Collect your radioactive goo and grow larger and larger shooting your way out of the box but be careful, if you run into yourself or a wall its GAME OVER
 
+Collect power ups
+Earn Score
+SURVIVE!
 
-## Building
+[Play the game](https://github.com/Ryan-Seegmiller/SnakeEscape/archive/refs/heads/main.zip)
+
+
 
